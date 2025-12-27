@@ -20,12 +20,10 @@ This is a simple React application created during my learning process. It demons
 ---
 
 # 👨‍💻 Author
-Sanika Parchande
--
-Computer Science Engineering Student 
--
-Aspiring Software Developer
--
+ Sanika Parchande
+ Computer Science Engineering Student 
+ Aspiring Software Developer
+
 
 ---
 
